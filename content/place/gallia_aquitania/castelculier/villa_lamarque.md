@@ -2,7 +2,7 @@
 slug: "942e967fc3"
 type: garden
 title: Villa Lamarque
-latlon: [ 44.175800, -0.697917 ]
+latlon: [ 44.175970662, 0.698189418939 ]
 jashemski-catalogue: AQU 14.0.1, 14.0.2
 author: Eric Morvillez, Clopper Almon
 translator: Translator Name
@@ -37,8 +37,11 @@ In late antiquity, the residence occupied 1.5 hectares and included two vast cou
 
 <!--
 ## Plans
-{{< image file="filename.jpg" caption="Castelculier. Villa de Lamarque. Plan des fouilles (1995)" credit="" alt="Plans of the villa based on excavations" >}, {< image file="filename.jpg" caption="Castelculier. Lamarque. Plan restitué de l'état 1 et de l'état 2" credit="" alt="More plans placed on top the excavation plans from previous plan" >}}
+{{< image file="filename.jpg" caption="Castelculier. Villa de Lamarque. Plan des fouilles (1995)" credit="" alt="Plans of the villa based on excavations" >}}
+{{< image file="filename.jpg" caption="Castelculier. Lamarque. Plan restitué de l'état 1 et de l'état 2" credit="" alt="More plans placed on top the excavation plans from previous plan" >}}
  TODO: add files, add image credits for both plans (unsure of the exact citation)
+ first image says "par Ph. Jacques (d'aprés Fages 1995 [CAG, 47], 186, fig 123)."
+ second image says "par Ph. Jacques (d'aprés Fages 1995 [CAG, 47], 186, fig 124)."
 -->
 
 <!--
@@ -46,19 +49,26 @@ In late antiquity, the residence occupied 1.5 hectares and included two vast cou
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
+
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+- Centre Nationale de la Recherche Scientifique. 1988. *Gallia Informations*, 139–42. 1987–88 vol. 1. Paris: Éditions du CNRS. [(worldcat)](WORLDCAT_LINK_URL)
+- Centre Nationale de la Recherche Scientifique. 1991. *Gallia Informations*, 89–91. 1991 vol. 1. Paris: Éditions du CNRS. [(worldcat)](WORLDCAT_LINK_URL)
+- Coupry, M.J. 1963. “Circonscription de Bordeaux,” 528–29. *Gallia* 21(2):505–36. [(worldcat)](https://search.worldcat.org/title/732430579)
+- Jacques, P. 1995. “Castelculier: Villa Gallo-Romaine.” In *Bilan Scientifique de la Région Aquitaine*, 1994 edition, 88–9.  Bordeaux: Service Régional de l’Archéologie. [(worldcat)](https://search.worldcat.org/title/929762394)
+- Jacques, P. 1998. “Castelculier: Lamarque.” In *Bilan Scientifique de la Région Aquitaine*, 1998 edition, 100-3.  Bordeaux: Service Régional de l’Archéologie. [(worldcat)](WORLDCAT_LINK_URL)
+- Fages, B. Carte *Archéologique de la Gaule* 47:184–95. [(worldcat)](https://search.worldcat.org/title/1507315063)
+- *Demeures* p. 89, 348-351, plan p. 448 [(worldcat)](WORLDCAT_LINK_URL)
+- Francis Stephanus and Phillippe Jacques, an undated report on the salvage excavations, found in the library in Castelculier. [(worldcat)](WORLDCAT_LINK_URL)
 
-<!--
+
+
 ## Keywords
-- {{< keyword "example" >}}
--->
+- {{< keyword "statues" >}}
+- {{< keyword "villas" >}}
+- {{< keyword "natationes" >}}
+- {{< keyword "concrete" >}}
 
-<!--
+
 ## Places
 places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+- {{< id vocab="Pleiades" id="249936" name="Lamarque Gallo-Roman Villa" >}}
